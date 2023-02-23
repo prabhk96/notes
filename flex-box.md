@@ -1,0 +1,13 @@
+# flex box
+- flex box is used to align the items in the container.
+- Item:- Item is the specific entity which needs to be alighned or justified.
+- Container:-  Parent under which Items are placed.
+- ```Always display flex property is applied to Parent only.```
+- ```Display : Flex   --> Defines the container as a flex box.``` (Most Important Point)
+- Flex Direction: Row | Column ... By Default Flex direction is row. ( To align items either vertically or horizontally)
+- Properties
+- Justify Content: Center | Space between | space evenly
+-  It is used to align the items in horizontal direction. if flex direction is row, otherwise it will be vice versa if flex direction is column.
+- Align items: Center | space between | space evenly 
+- It is used to align items in vertical direction.  if flex direction is row, otherwise it will be vice versa if flex direction is column.
+- 
